@@ -37,7 +37,7 @@
 ![teaser_img](assets/teaser.png)
 
 ## :mega: News
-- **2026.3.5**: [UltraFusion+ benchmark](https://drive.google.com/drive/folders/1Na66yFmw0mrSr4gl5yRQJAew6hKQbWjH?usp=sharing) is realeased, which includes 50 additional scenes with large motion.
+- **2026.3.5**: [UltraFusion+ benchmark](https://drive.google.com/drive/folders/1Na66yFmw0mrSr4gl5yRQJAew6hKQbWjH?usp=sharing) and [UltraFusion+ training dataset](https://drive.google.com/drive/folders/1F4q3Bs4-Sj3ZO7dTYFCPQ2cRUWe13Dr-?usp=sharing) is realeased.
 - **2024.4.23**: Inference codes, benchmark and results are released.
 - **2024.4.5**: Our UltraFusion is selected to be presented as a :sparkles:***highlight***:sparkles: in CVPR 2025.
 - **2025.2.27**: Accepeted by ***CVPR 2025*** :tada::tada::tada:.
